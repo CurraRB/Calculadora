@@ -9,7 +9,7 @@ public class Calculadora {
             case '/':
                 if (num2 == 0) {
                     System.out.println("Error: División entre cero");
-                } else {
+                } else {                //Añado estos comentarios para hacer commit and push. CURRA RODRÍGUEZ BERMÚDEZ
                     resultado = num1 / num2;
                 }
                 break;
